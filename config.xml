@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.baochengyoubang.chat.youbang" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>香港友邦在线咨询</name>
+    <description>
+     香港友邦保险在线咨询   
+    </description>
+    <author email="admin@baochengyoubang.com" href="http://baochengyoubang.com">
+        保诚友邦网
+    </author>
+    <content src="index.html" />
+	    <plugin name="cordova-plugin-inappbrowser" />
+		    <access origin="*"/>
+ <plugin name="cordova-plugin-whitelist" version="1" />
+    <allow-intent href="http://*/*" />
+</widget>
