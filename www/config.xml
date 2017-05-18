@@ -8,6 +8,7 @@
         保诚友邦网
     </author>
     <content src="index.html" />
+	<icon src="icon.png" />
 	    <plugin name="cordova-plugin-inappbrowser" />
 		    <access origin="*"/>
  <plugin name="cordova-plugin-whitelist" version="1" />
